@@ -1,6 +1,6 @@
 # kg-registry-downloader
 
-Interactive CLI tool for downloading Neo4j products from [kghub.org](https://kghub.org)'s KG Registry.
+Interactive py script for downloading Neo4j products from [kghub.org](https://kghub.org)'s KG Registry.
 
 ## Features
 
